@@ -1,0 +1,10 @@
+node_modules/
+dist/
+*.tsbuildinfo
+/.vscode/
+/public/images/iamgen 03.html
+/public/images/iamgen 03_files/
+!/public/images/iamgen 03_files/
+/public/images/iamgen 03_files/*
+!/public/images/iamgen 03_files/849161226_17956987632251358_6685562299176618288_n.jpg
+/[{]clearTimeout(timer)
